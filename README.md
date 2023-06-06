@@ -4,7 +4,7 @@
 Front-End разработчик
 ---------------------
 
-* ✉️ [homosum07@gmail.com](mailto:homosum07@gmail.com)[](mailto:homosum07@gmail.com)
+✉️ [homosum07@gmail.com](mailto:homosum07@gmail.com)[](mailto:homosum07@gmail.com)
 
 ### Skills
 
