@@ -1,10 +1,8 @@
 Привет! Меня зовут Наталья!
 ==================
 
-Front-End разработчик
+Frontend developer
 ---------------------
-
-✉️ [homosum07@gmail.com](mailto:homosum07@gmail.com)[](mailto:homosum07@gmail.com)
 
 ### Skills
 
